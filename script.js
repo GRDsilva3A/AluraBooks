@@ -1,0 +1,1 @@
+console.log("Bem-vinda ao site de Livros de Stardew Valley e Suguru Geto!");
